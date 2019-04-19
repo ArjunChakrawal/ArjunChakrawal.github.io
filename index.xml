@@ -39,6 +39,15 @@
 &lt;ul&gt;
 &lt;li&gt;Deplying the website on github (best &lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;help&lt;/a&gt;)
 &lt;ul&gt;
+&lt;li&gt;Create a simplest github page with help from &lt;a href=&#34;https://pages.github.com/&#34;&gt;github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clone the &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; repositroy in your project’s root folder.&lt;/li&gt;
+&lt;li&gt;Make an initial commit where you delete the demo index.html that you might have created in previous step.&lt;/li&gt;
+&lt;li&gt;Add &lt;em&gt;.nojekyll&lt;/em&gt; file to username.github.io folder&lt;/li&gt;
+&lt;li&gt;Change &lt;em&gt;baseurl&lt;/em&gt; to &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; and &lt;em&gt;publishDir&lt;/em&gt; to full path of the username.github.io folder in config.toml file&lt;/li&gt;
+&lt;li&gt;Finally use blogdown::serve_site() to build your website again, now you would see th&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;If you are confomrtable with git bash then you can use these commands to add changes, commit and push.
+&lt;ul&gt;
 &lt;li&gt;git clone &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;cd username.github.io&lt;/li&gt;
 &lt;li&gt;git add –all&lt;/li&gt;
