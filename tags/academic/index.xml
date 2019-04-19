@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic on Arjun Chakrawal</title>
+    <link>/tags/academic/</link>
+    <description>Recent content in Academic on Arjun Chakrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
+    <lastBuildDate>Sat, 20 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EGU2019</title>
+      <link>/unused/egu2019/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/unused/egu2019/</guid>
+      <description>The poster is available here This browser does not support PDFs. Please download the PDF to view it: Download PDF.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Academic Help</title>
+      <link>/post/hugohelp/hugo-academic-help/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugohelp/hugo-academic-help/</guid>
+      <description>I have summarized often needed but hidden helps for academic template.
+Deplying the website on github (best help)git clone https://github.com/username/username.github.iocd username.github.iogit add –allgit commit -m “Initial commit”git push -u origin masterThe order of appearance of each section (e.g. Projects) on home is controlled by the weight assigned to each section in the index file.
+Legend list for publication types0 = Uncategorized1 = Conference paper2 = Journal article3 = Manuscript4 = Report5 = Book6 = Book section</description>
+    </item>
+    
+    <item>
+      <title>Learning Programming2</title>
+      <link>/unused/bla/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/unused/bla/</guid>
+      <description>Some attempts to learning R, Python and Matlab.</description>
+    </item>
+    
+    <item>
+      <title>ESM2018</title>
+      <link>/unused/esm2018/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/unused/esm2018/</guid>
+      <description>The front page of my presentation.
+This browser does not support PDFs. Please download the PDF to view it: Download PDF.
+</description>
+    </item>
+    
+  </channel>
+</rss>
