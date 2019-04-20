@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on Arjun Chakrawal</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on Arjun Chakrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning R</title>
+      <link>/post/rmakdown-post/learning-programming/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/rmakdown-post/learning-programming/</guid>
+      <description>Day 2 (R plot and ggplot2):Data Source https://bolin.su.se/data/stockholm/files/stockholm-historical-weather-observations-2017/temperature/daily/raw/stockholm_daily_temp_obs_2013_2017_t1t2t3txtntm.txt
+textFile &amp;lt;- &amp;#39;https://bolin.su.se/data/stockholm/files/stockholm-historical-weather-observations-2017/temperature/daily/raw/stockholm_daily_temp_obs_2013_2017_t1t2t3txtntm.txt&amp;#39;temp_Data &amp;lt;- basename(textFile)if (!file.exists(temp_Data)) {download.file(textFile, temp_Data)}temp_Data = read.table(temp_Data, header=FALSE)names(temp_Data) = c(&amp;#39;year&amp;#39;, &amp;#39;month&amp;#39;, &amp;#39;day&amp;#39;, &amp;#39;morn&amp;#39;, &amp;#39;noon&amp;#39;, &amp;#39;eve&amp;#39;,&amp;#39;tmax&amp;#39;, &amp;#39;tmin&amp;#39;, &amp;#39;tmean&amp;#39;)head(temp_Data)## year month day morn noon eve tmax tmin tmean## 1 2013 1 1 5.1 4.1 2.9 5.4 2.9 4.1## 2 2013 1 2 2.5 2.</description>
+    </item>
+    
+  </channel>
+</rss>

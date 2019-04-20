@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Arjun Chakrawal</title>
+    <link>/authors/</link>
+    <description>Recent content in Authors on Arjun Chakrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A. Chaudhuri, A. Chakrawal, P. Naigaonkar, H.J.H. Franssen &amp; M. Sekhar</title>
+      <link>/authors/a.-chaudhuri-a.-chakrawal-p.-naigaonkar-h.j.h.-franssen-m.-sekhar/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/authors/a.-chaudhuri-a.-chakrawal-p.-naigaonkar-h.j.h.-franssen-m.-sekhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>admin</title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
