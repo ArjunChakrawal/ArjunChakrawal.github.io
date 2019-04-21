@@ -6,8 +6,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resources summarized to build this site</title>
+      <link>/post/hugo-resources/hugo-resources/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo-resources/hugo-resources/</guid>
+      <description>
+
+
+&lt;p&gt;A list of resources that I used to create this website. May be this could help someone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Creating Websites with R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Academic Hugo Theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qtIqKaDlqXo&#34;&gt;YouTube Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Content in Academic Hugo can be written in either format &lt;em&gt;.Rmd, .RMarkdown&lt;/em&gt; or &lt;em&gt;.md&lt;/em&gt;. I generally prefer &lt;em&gt;.Rmd&lt;/em&gt; because one could easily utilize all the functions of R markdown, specially integrating r/python code snippets. &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt;, more &lt;a href=&#34;https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html&#34;&gt;help&lt;/a&gt; on R Markdown&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Hugo Academic Help</title>
@@ -20,16 +40,16 @@
 
 &lt;p&gt;I have summarized often needed but hidden helps for academic template.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Deplying the website on github (best &lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;help&lt;/a&gt;)
+&lt;li&gt;Deploying the website on github (best &lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;help&lt;/a&gt;)
 &lt;ul&gt;
 &lt;li&gt;Create a simplest github page with help from &lt;a href=&#34;https://pages.github.com/&#34;&gt;github pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Clone the &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; repositroy in your project’s root folder.&lt;/li&gt;
+&lt;li&gt;Clone the &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; repository in your project’s root folder.&lt;/li&gt;
 &lt;li&gt;Make an initial commit where you delete the demo index.html that you might have created in previous step.&lt;/li&gt;
 &lt;li&gt;Add &lt;em&gt;.nojekyll&lt;/em&gt; file to username.github.io folder&lt;/li&gt;
 &lt;li&gt;Change &lt;em&gt;baseurl&lt;/em&gt; to &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; and &lt;em&gt;publishDir&lt;/em&gt; to full path of the username.github.io folder in config.toml file&lt;/li&gt;
 &lt;li&gt;Finally use blogdown::serve_site() to build your website again, now you would see th&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;If you are confomrtable with git bash then you can use these commands to add changes, commit and push.
+&lt;li&gt;If you are comfortable with git bash then you can use these commands to add changes, commit and push.
 &lt;ul&gt;
 &lt;li&gt;git clone &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;cd username.github.io&lt;/li&gt;

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Resources summarized to build this site</title>
+      <link>/post/hugo-resources/hugo-resources/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo-resources/hugo-resources/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hugo Academic Help</title>
@@ -18,8 +27,7 @@
       <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/hugohelp/hugo-academic-help/</guid>
-      <description>I have summarized often needed but hidden helps for academic template.
-Deplying the website on github (best help)Create a simplest github page with help from github pagesClone the https://github.com/username/username.github.io repositroy in your project’s root folder.Make an initial commit where you delete the demo index.html that you might have created in previous step.Add .nojekyll file to username.github.io folderChange baseurl to https://github.com/username/username.github.io and publishDir to full path of the username.</description>
+      <description>I have summarized often needed but hidden helps for academic template.</description>
     </item>
     
   </channel>
