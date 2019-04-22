@@ -1,0 +1,14 @@
+---
+title: gwm
+author: Arjun Chakrawal
+date: '2019-04-22'
+slug: gwm
+categories:
+  - Groundwater
+tags:
+  - PhD
+  - Teaching
+image:
+  caption: ''
+  focal_point: ''
+---

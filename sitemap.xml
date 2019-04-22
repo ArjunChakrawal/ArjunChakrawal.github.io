@@ -2,12 +2,6 @@
   
     <url>
     
-      <loc>/post/gwm/gwm/</loc>
-      <lastmod>2019-04-22T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>/</loc>
       <lastmod>2019-04-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -53,6 +47,12 @@
       <loc>/tags/teaching/</loc>
       <lastmod>2019-04-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+  
+    <url>
+    
+      <loc>/post/gwm/gwm/</loc>
+      <lastmod>2019-04-22T00:00:00+00:00</lastmod>
     </url>
   
     <url>
