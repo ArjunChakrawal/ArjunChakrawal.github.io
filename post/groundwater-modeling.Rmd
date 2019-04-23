@@ -1,7 +1,7 @@
 ---
 title: "A glimpse of groundwater modeling course"
 author: "Arjun Chakrawal"
-date: "April 23, 2019"
+date: "2019-04-23"
 categories:
   - Groundwater
 tags:

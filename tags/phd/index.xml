@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A glimpse of groundwater modeling course</title>
+      <link>/post/groundwater-modeling/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/groundwater-modeling/</guid>
+      <description>This course is designed to give student an insight into groundwater modeling.</description>
+    </item>
     
     <item>
       <title>Bioenergetics Project</title>
@@ -28,15 +37,6 @@
       
       <guid>/project/phd-project/upscaling/upscaling-project/</guid>
       <description>How does soil spatially heterogeneous distribution affects organic matter dynamics?</description>
-    </item>
-    
-    <item>
-      <title>A glimpse of groundwater modeling course</title>
-      <link>/post/groundwater-modeling/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/groundwater-modeling/</guid>
-      <description>This course is designed to give student an insight into groundwater modeling.</description>
     </item>
     
   </channel>
