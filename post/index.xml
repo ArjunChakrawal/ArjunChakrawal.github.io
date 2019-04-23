@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arjun Chakrawal</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Arjun Chakrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A glimpse of groundwater modeling course</title>
+      <link>/post/groundwatermodeling/groundwatermodeling/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/groundwatermodeling/groundwatermodeling/</guid>
+      <description>This course is designed to give student an insight into groundwater modeling.</description>
+    </item>
+    
+    <item>
+      <title>Resources summarized to build this site</title>
+      <link>/post/hugo-resources/hugo-resources/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo-resources/hugo-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Academic Help</title>
+      <link>/post/hugohelp/hugo-academic-help/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugohelp/hugo-academic-help/</guid>
+      <description>I have summarized often needed but hidden helps for academic template.</description>
+    </item>
+    
+  </channel>
+</rss>
