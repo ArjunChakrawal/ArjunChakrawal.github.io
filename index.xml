@@ -1,0 +1,166 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arjun Chakrawal on Arjun Chakrawal</title>
+    <link>/</link>
+    <description>Recent content in Arjun Chakrawal on Arjun Chakrawal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A glimpse of groundwater modeling course</title>
+      <link>/post/gwm/a-glimpse-of-groundwater-modeling-course/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/gwm/a-glimpse-of-groundwater-modeling-course/</guid>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/jquery/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/leaflet/leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/leaflet/leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/leafletfix/leafletfix.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/Proj4Leaflet/proj4-compressed.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;/rmarkdown-libs/Proj4Leaflet/proj4leaflet.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;/rmarkdown-libs/rstudio_leaflet/rstudio_leaflet.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/leaflet-binding/leaflet.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This course is designed to give student an insight into groundwater modeling. Student are asked to investigate the potential groundwater contaminants at the landfill site of Skrubba, Stockholm. Skrubba is located south-east of Stockholm, here is a map of the area.&lt;/p&gt;
+&lt;p&gt;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:672px;height:480px;&#34; class=&#34;leaflet html-widget&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;setView&#34;:[[59.246468,18.195244],13,[]],&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:1,&#34;detectRetina&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; &lt;a href=\&#34;http://openstreetmap.org\&#34;&gt;OpenStreetMap&lt;\/a&gt; contributors, &lt;a href=\&#34;http://creativecommons.org/licenses/by-sa/2.0/\&#34;&gt;CC-BY-SA&lt;\/a&gt;&#34;}]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[59.246468,18.195244,null,null,null,{&#34;interactive&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},&#34;Skrubba Landfill&#34;,null,null,null,null,{&#34;interactive&#34;:false,&#34;permanent&#34;:false,&#34;direction&#34;:&#34;auto&#34;,&#34;opacity&#34;:1,&#34;offset&#34;:[0,0],&#34;textsize&#34;:&#34;10px&#34;,&#34;textOnly&#34;:false,&#34;className&#34;:&#34;&#34;,&#34;sticky&#34;:true},null]}],&#34;limits&#34;:{&#34;lat&#34;:[59.246468,59.246468],&#34;lng&#34;:[18.195244,18.195244]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt; &lt;br /&gt; Students job is to model the groundwater flow direction and estimate the travel times of contaminant to the lake Drevviken using ModelMuse. The input data is provided in various formats; namely precipitation and temperature data as a time series from a nearby meteorological station, geological data about soil and bed rock types from SGU and concentration of different contaminants at measured time.&lt;/p&gt;
+&lt;p&gt;This is what the DEM of the area looks like.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources summarized to build this site</title>
+      <link>/post/hugo-resources/hugo-resources/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugo-resources/hugo-resources/</guid>
+      <description>
+
+
+&lt;p&gt;A list of resources that I used to create this website. Perhaps this could be useful to others.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Creating Websites with R Markdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Academic Hugo Theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=qtIqKaDlqXo&#34;&gt;YouTube Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Content in Academic Hugo can be written in either format &lt;em&gt;.Rmd, .RMarkdown&lt;/em&gt; or &lt;em&gt;.md&lt;/em&gt;. I generally prefer &lt;em&gt;.Rmd&lt;/em&gt; because one could easily utilize all the functions of R markdown, specially integrating r/python code snippets. &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt;, more &lt;a href=&#34;https://ourcodingclub.github.io/2016/11/24/rmarkdown-1.html&#34;&gt;help&lt;/a&gt; on R Markdown&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo Academic Help</title>
+      <link>/post/hugohelp/hugo-academic-help/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hugohelp/hugo-academic-help/</guid>
+      <description>
+
+
+&lt;p&gt;I have summarized often needed but hidden helps for academic template.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;h3 id=&#34;deploying-the-website-on-github-best-help&#34;&gt;Deploying the website on github (best &lt;a href=&#34;https://bookdown.org/yihui/blogdown/github-pages.html&#34;&gt;help&lt;/a&gt;)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a simplest github page with help from &lt;a href=&#34;https://pages.github.com/&#34;&gt;github pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Clone the &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; repository in your project’s root folder.&lt;/li&gt;
+&lt;li&gt;Make an initial commit where you delete the demo index.html that you might have created in previous step.&lt;/li&gt;
+&lt;li&gt;Add &lt;em&gt;.nojekyll&lt;/em&gt; file to username.github.io folder&lt;/li&gt;
+&lt;li&gt;Change &lt;em&gt;baseurl&lt;/em&gt; to &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt; and &lt;em&gt;publishDir&lt;/em&gt; to full path of the username.github.io folder in config.toml file&lt;/li&gt;
+&lt;li&gt;Finally use blogdown::serve_site() to build your website again, now you would see th&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h3 id=&#34;git-bash&#34;&gt;git bash&lt;/h3&gt;
+If you are comfortable with git bash then you can use these commands to add changes, commit and push.
+&lt;ul&gt;
+&lt;li&gt;git clone &lt;a href=&#34;https://github.com/username/username.github.io&#34; class=&#34;uri&#34;&gt;https://github.com/username/username.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cd username.github.io&lt;/li&gt;
+&lt;li&gt;git add –all&lt;/li&gt;
+&lt;li&gt;git commit -m “Initial commit”&lt;/li&gt;
+&lt;li&gt;git push -u origin master&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;h3 id=&#34;legend-list-for-publication-types&#34;&gt;Legend list for publication types&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;0 = Uncategorized&lt;/li&gt;
+&lt;li&gt;1 = Conference paper&lt;/li&gt;
+&lt;li&gt;2 = Journal article&lt;/li&gt;
+&lt;li&gt;3 = Manuscript&lt;/li&gt;
+&lt;li&gt;4 = Report&lt;/li&gt;
+&lt;li&gt;5 = Book&lt;/li&gt;
+&lt;li&gt;6 = Book section&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;The order of appearance of each section (e.g. Projects) on home is controlled by the weight assigned to each section in the index file.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bioenergetics Project</title>
+      <link>/project/phd-project/bioenergetics/bioenergetics-project/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/phd-project/bioenergetics/bioenergetics-project/</guid>
+      <description>
+
+
+&lt;p&gt;Energetic limitations on the microbial growth act as additional constraints to the decomposition of soil organic matter (SOM). The coupling of Gibbs energy in anabolic (biosynthesis) and catabolic biochemical reactions form a basis for the energy requirements of microorganisms growth. In aerobic decomposition processes, metabolic products as a results of oxidative substrate are CO2 and H2O, furthermore, the substrate act as the carbon as well as the energy source. The global growth reaction is often associated with negative enthalpy change which result in the heat release from the system. This heat can be measured using micro-Calorimeter. In this study, we formulate a mass-energy balance model for SOM decomposition to explain the observed heat released. We also synthesize the thermodynamic based efficiency measures in the context of SOM decomposition and provide a general theoretical base for estimating biomass yield from routine thermodynamic measurement.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;/project/img1.PNG&#34; alt=&#34;Decomposition model: Substrate added is glucose ({C_6H_{12}O_6}) and average formula for biomass is CH_{1.8}O_{0.5}N_{0.2}; \mu, m_s, and k_d are the specific growth rate, the maintenance rate, and the mortality of the microorganisms respectively.&#34; style=&#34;width:50.0%&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Decomposition model: Substrate added is glucose (&lt;span class=&#34;math inline&#34;&gt;\({C_6H_{12}O_6}\)&lt;/span&gt;) and average formula for biomass is &lt;span class=&#34;math inline&#34;&gt;\(CH_{1.8}O_{0.5}N_{0.2}\)&lt;/span&gt;; &lt;span class=&#34;math inline&#34;&gt;\(\mu\)&lt;/span&gt;, &lt;span class=&#34;math inline&#34;&gt;\(m_s\)&lt;/span&gt;, and &lt;span class=&#34;math inline&#34;&gt;\(k_d\)&lt;/span&gt; are the specific growth rate, the maintenance rate, and the mortality of the microorganisms respectively.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upscaling Project</title>
+      <link>/project/phd-project/upscaling/upscaling-project/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/phd-project/upscaling/upscaling-project/</guid>
+      <description>
+
+
+&lt;div id=&#34;topic&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Topic:&lt;/h2&gt;
+&lt;p&gt;The importance of spatially heterogeneous distribution of substrate at the micro-scale in soil organic matter (SOM) dynamics has been shown both experimentally and in modeling studies; however, a theoretical framework for understanding the effects of micro-scale heterogeneities on the macroscopic rate of decomposition of soil organic matter is lacking. Here, we attempt to develop this theory.&lt;/p&gt;
+&lt;div id=&#34;novelty&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Novelty:&lt;/h3&gt;
+&lt;p&gt;Microbial explicit SOM decomposition use mathematical formulations developed for well-mixed conditions. We demonstrate mathematically that these models fail to capture carbon dynamics in a spatially heterogeneous environment, and for the first time, we provide a mathematical framework to link the effects of micro-scale (pore scale) spatial heterogeneities on the dynamics of C fluxes at the macro-scale (soil core).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;importance&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Importance:&lt;/h3&gt;
+&lt;p&gt;The distribution of organic substrates and microorganisms in soils is spatially heterogeneous at the micro-scale. Most soil carbon cycling models do not account for this micro-scale heterogeneity, motivating the development of a macro-scale model that can account for micro-scale heterogeneities. To meet this need, we use scale transition theory to analytically link micro- and macro-scale dynamics in a two dimensional spatially heterogeneous medium. Using scale transition theory, we show that the second-order spatial moments of substrate and microorganisms should be included in a macro-scale carbon model because these moments exhibit a dynamic behaviour that alters the mean dynamics of SOM decomposition.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;summary-for-layman&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Summary for layman&lt;/h3&gt;
+&lt;p&gt;An accurate representation of soil organic matter (SOM) decomposition dynamics in large scale Earth system models is required for a better prediction of carbon storage and its fluxes. Often soil scientists simplify the dynamics of soil carbon decomposition by assuming soils as well-mixed homogeneous compartments of varying substrate quality and microorganisms. However, soils are naturally heterogeneous, which results in a non-uniform spatial distribution of substrate carbon as well as microorganisms inhabiting it. Here, we introduce a methodology to account for spatial heterogeneities in soil carbon cycling models and discuss the limitations of using traditional models that neglect spatial variability.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimation of permeability field from sparse measurements of local permeability and water table fluctuations</title>
+      <link>/publication/person-re-id/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/person-re-id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
