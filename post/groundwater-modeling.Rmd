@@ -40,7 +40,7 @@ leaflet()%>%
 
 <br />
 
-#### The groundwater flow path lines simulated using Modpath solver within ModelMuse is shown below. Early observation of the groundwater flow show that the contaminant zone sits upon a groundwater divide which is fairly captured by the model, i.e. diverging flow pathlines. 
+#### The groundwater flow path lines simulated using Modpath solver within ModelMuse is shown below. Early observations of the groundwater flow show that the contaminant zone sits upon a groundwater divide which is fairly captured by the model, i.e. diverging flow pathlines. 
 
 ![](/img/gwm/pathlines.PNG){ width=100%}
 
