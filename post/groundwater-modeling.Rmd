@@ -13,7 +13,7 @@ image:
   preview_only: true
 summary: "This course is designed to give student an insight into groundwater modeling."
 ---
-#### This course is designed to give student an insight into groundwater modeling. Student are asked to investigate the potential groundwater contaminants at the landfill site of Skrubba, Stockholm. Skrubba is located south-east of Stockholm, here is a map of the area. 
+#### This course is designed to give students an insight into groundwater modeling. Students are asked to investigate the potential groundwater contaminants at the landfill site of Skrubba, Stockholm. Skrubba is located south-east of Stockholm, here is a map of the area. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -31,7 +31,7 @@ leaflet()%>%
 ```
 <br />
 
-#### Students job is to model the groundwater flow direction and estimate the travel times of contaminant to the lake Drevviken using ModelMuse. The input data is provided in various formats; namely precipitation and temperature data as a time series from a nearby meteorological station, geological data about soil and bed rock types from SGU and concentration of different contaminants at measured time.
+#### Students job is to model the groundwater flow direction and estimate the travel times of contaminant to the lake Drevviken using ModelMuse. The input data is provided in various formats; namely precipitation and temperature data as a time series from a nearby [meteorological station](https://www.smhi.se/klimatdata/meteorologi/ladda-ner-meteorologiska-observationer/), geological data about soil and bedrock types from [SGU](https://apps.sgu.se/kartvisare/) and concentration of different contaminants at measured time.
 
 #### This is what the DEM of the area looks like.
 
@@ -57,3 +57,4 @@ leaflet()%>%
 
 ####Caution:<br />
 ####Any modeling excercise is build upon assumptions that simplifies the problem therefore the results should be interpreted carefully. In this case, model capture the general groundwater flow direction; however, it is very sensitive to hydraulic conductivities and recharge values. 
+
