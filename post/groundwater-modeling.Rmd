@@ -13,7 +13,7 @@ image:
   preview_only: true
 summary: "This course is designed to give student an insight into groundwater modeling."
 ---
-#### This course is designed to give students an insight into groundwater modeling. Students are asked to investigate the potential groundwater contaminants at the landfill site of Skrubba, Stockholm. Skrubba is located south-east of Stockholm, here is a map of the area. 
+#### Groundwater modeling module of the Advanced Hydrogeology course is designed to give students an insight into the open source modeling tools commonly used in groundwater assessment. Students are asked to investigate the potential groundwater contaminants at the landfill site of Skrubba, Stockholm. Skrubba is located south-east of Stockholm, here is a map of the area. 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -46,7 +46,7 @@ leaflet()%>%
 
 <br />
 
-#### If someone is interested in learning more about the Groundwater modeling, here is a list to get you started...
+#### For someone interested in learning more about the groundwater modeling, here is a list to get you started...
 
 * #### ModelMuse [Videos](https://water.usgs.gov/nrp/gwsoftware/ModelMuse/ModelMuseVideos.html)
 * #### [Hatari Labs](https://www.hatarilabs.com/)
