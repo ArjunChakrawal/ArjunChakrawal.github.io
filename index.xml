@@ -18,7 +18,7 @@
       <description>
 
 
-&lt;p&gt;Groundwater modeling module of the Advanced Hydrogeology course is designed to give students an insight into the open source modeling tools commonly used in groundwater assessment. Students are asked to investigate the potential groundwater contaminants for hypothetical landfill site. The objective is to model the groundwater flow direction and estimate the travel times of contaminants to a nearby lake using ModelMuse. The input data is provided in various formats; namely precipitation and temperature data as a time series, geological data about soil and bedrock types and concentration of different contaminants at measured time.&lt;/p&gt;
+&lt;p&gt;Groundwater modeling module of the Advanced Hydrogeology course is designed to give students an insight into the open source modeling tools commonly used in groundwater assessment. Students are asked to investigate the potential groundwater contaminants for a hypothetical landfill site. The objective is to model the groundwater flow direction and estimate the travel times of contaminants to a nearby lake using ModelMuse. The input data is provided in various formats; namely precipitation and temperature data as a time series, geological data about soil and bedrock types and concentration of different contaminants at measured time.&lt;/p&gt;
 &lt;p&gt;This is what the DEM of the area looks like.&lt;/p&gt;
 &lt;div class=&#34;figure&#34;&gt;
 &lt;img src=&#34;/img/gwm/dem1.png&#34; style=&#34;width:100.0%&#34; /&gt;
