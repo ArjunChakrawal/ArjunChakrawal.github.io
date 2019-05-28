@@ -132,22 +132,7 @@ If you are comfortable with git bash then you can use these commands to add chan
       <description>
 
 
-&lt;div id=&#34;topic&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;Topic:&lt;/h2&gt;
-&lt;p&gt;The importance of spatially heterogeneous distribution of substrate at the micro-scale in soil organic matter (SOM) dynamics has been shown both experimentally and in modeling studies; however, a theoretical framework for understanding the effects of micro-scale heterogeneities on the macroscopic rate of decomposition of soil organic matter is lacking. Here, we attempt to develop this theory.&lt;/p&gt;
-&lt;div id=&#34;novelty&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Novelty:&lt;/h3&gt;
-&lt;p&gt;Microbial explicit SOM decomposition use mathematical formulations developed for well-mixed conditions. We demonstrate mathematically that these models fail to capture carbon dynamics in a spatially heterogeneous environment, and for the first time, we provide a mathematical framework to link the effects of micro-scale (pore scale) spatial heterogeneities on the dynamics of C fluxes at the macro-scale (soil core).&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;importance&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Importance:&lt;/h3&gt;
-&lt;p&gt;The distribution of organic substrates and microorganisms in soils is spatially heterogeneous at the micro-scale. Most soil carbon cycling models do not account for this micro-scale heterogeneity, motivating the development of a macro-scale model that can account for micro-scale heterogeneities. To meet this need, we use scale transition theory to analytically link micro- and macro-scale dynamics in a two dimensional spatially heterogeneous medium. Using scale transition theory, we show that the second-order spatial moments of substrate and microorganisms should be included in a macro-scale carbon model because these moments exhibit a dynamic behaviour that alters the mean dynamics of SOM decomposition.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;summary-for-layman&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Summary for layman&lt;/h3&gt;
-&lt;p&gt;An accurate representation of soil organic matter (SOM) decomposition dynamics in large scale Earth system models is required for a better prediction of carbon storage and its fluxes. Often soil scientists simplify the dynamics of soil carbon decomposition by assuming soils as well-mixed homogeneous compartments of varying substrate quality and microorganisms. However, soils are naturally heterogeneous, which results in a non-uniform spatial distribution of substrate carbon as well as microorganisms inhabiting it. Here, we introduce a methodology to account for spatial heterogeneities in soil carbon cycling models and discuss the limitations of using traditional models that neglect spatial variability.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;An accurate representation of soil organic matter (SOM) decomposition dynamics in large scale Earth system models is required for a better prediction of carbon storage and its fluxes. Often soil scientists simplify the dynamics of soil carbon decomposition by assuming soils as well-mixed homogeneous compartments of varying substrate quality and microorganisms. However, soils are naturally heterogeneous, which results in a non-uniform spatial distribution of substrate carbon as well as microorganisms inhabiting it. Here, we formulate a methodology to account for spatial heterogeneities in soil carbon cycling models and investigate the limitations of using traditional models that neglect spatial variability.&lt;/p&gt;
 </description>
     </item>
     

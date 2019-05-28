@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EGU on Arjun Chakrawal</title>
+    <link>/tags/egu/</link>
+    <description>Recent content in EGU on Arjun Chakrawal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;center&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc/4.0/88x31.png&#34; /&gt;&lt;center&gt;&lt;/a&gt;&lt;br&gt;&amp;copy; {year} Arjun Chakrawal</copyright>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/egu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EGU-Poster</title>
+      <link>/publication/egu-poster/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/egu-poster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
